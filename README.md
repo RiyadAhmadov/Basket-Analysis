@@ -35,6 +35,49 @@ The Apriori algorithm is used in a variety of industries and domains, including:
 - **Finance:** Detecting fraudulent activities by finding patterns in transaction data.
 - **Marketing:** Understanding customer preferences and improving targeted advertising.
 
+Let's look at rules's header description: 
+
+1. **antecedents**: 
+   - Description: Items that usually appear before another set of items.
+   - Text Description: Things that often happen before something else.
+
+2. **consequents**:
+   - Description: Items that usually appear after another set of items.
+   - Text Description: Things that often happen after something else.
+
+3. **antecedent support**:
+   - Description: How often the first set of items appears alone.
+   - Text Description: How often the first things occur by themselves.
+
+4. **consequent support**:
+   - Description: How often the second set of items appears alone.
+   - Text Description: How often the second things occur by themselves.
+
+5. **support**:
+   - Description: How often both sets of items appear together.
+   - Text Description: How often both things happen at the same time.
+
+6. **confidence**:
+   - Description: How likely the second set of items appears when the first set appears.
+   - Text Description: How sure we are that the second things happen when the first things happen.
+
+7. **lift**:
+   - Description: How much more likely the second set of items appears when the first set appears compared to random chance.
+   - Text Description: How much more often the second things happen when the first things happen, compared to if they were unrelated.
+
+8. **leverage**:
+   - Description: How much more often both sets of items appear together than expected if they were independent.
+   - Text Description: How much more often both things happen together than we'd expect if they were unrelated.
+
+9. **conviction**:
+   - Description: How much more likely it is that the first set of items appears without the second set compared to if they were unrelated.
+   - Text Description: How much more likely it is for the first things to happen without the second things, compared to if they weren't related.
+
+10. **zhangs_metric**:
+    - Description: A combined measure of how likely the second set of items is given the first set, and how much more likely it is compared to random chance.
+    - Text Description: A way to see how likely the second things are given the first things, and if that's more likely than random chance.
+
+
 ## Contributing
 
 Riyad Ahmadov
