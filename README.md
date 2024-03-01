@@ -81,7 +81,8 @@ Let's look at rules's header description:
 ## Contributing
 
 Riyad Ahmadov
-(Data Scientist / Data Analyst)
+
+_(Data Scientist / Data Analyst)_
 
 ## Contact
 
