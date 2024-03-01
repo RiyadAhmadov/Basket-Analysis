@@ -1,6 +1,6 @@
 # Apriori Algorithm for Basket Analysis
 
-!['Apriori Algorithm'](https://www.practicalecommerce.com/wp-content/uploads/2019/05/Use-Market-Basket-Analysis-to-Boost-Cross-sales-Average-Order-Values.jpg)
+!['Apriori Algorithm'](https://github.com/RiyadAhmadov/Basket-Analysis/assets/116457780/f50d4295-af8e-443f-8815-a2f67b8e07e3)
 
 ## Introduction to Apriori Algorithm
 
